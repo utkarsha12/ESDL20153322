@@ -3,4 +3,4 @@
 class col
 {
    cout<<"WELCOME TO CUMMINS";
-   }
+   };
