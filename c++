@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string>
-class col
+class A
 {
    cout<<"WELCOME TO CUMMINS";
+   cout<<"WELCOME IN COMPUTER BRANCH";
    };
